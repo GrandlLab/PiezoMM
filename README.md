@@ -43,7 +43,7 @@ Before you begin make sure you have Julia 1.7 or higher. It may work with other 
 git clone https://github.com/neuro-myoung/PiezoMM.git
 ```
 
-All the requisite packages are contained in the Manifest. Next, the following two commands will activate the environment and install the requisite packages. Make sure you type these commands from the package manager interface that can be accessed through julia by pressing `]` in the command line.
+All the required packages are contained in the Manifest. Next, the following two commands will activate the environment and install the requisite packages. Make sure you type these commands from the package manager interface that can be accessed through julia by pressing `]` in the command line.
 
 ```
 (v1.0) pkg> activate
@@ -51,7 +51,7 @@ All the requisite packages are contained in the Manifest. Next, the following tw
 ``` 
 
 ## Contributing
-To contribute to **sader_calibration**, follow these steps:
+To contribute to **PiezoMM**, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: git checkout -b *branch_name*.
