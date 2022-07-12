@@ -25,10 +25,13 @@ An example simulation can be seen below:
 A more detailed interactive example can be found in the Pluto Notebook included in the repository.
 
 ## References
-Lewis AH, Cui AF, McDonald MF, Grandl J. 2017. Transduction of repetitive mechanical stimuli by piezo1 and piezo2 ion channels. Cell Rep 19:2572–2585. doi:10.1016/j.celrep.2017.05.079
-Lewis AH, Grandl J. 2021. Piezo1 ion channels inherently function as independent mechanotransducers. eLife 10. doi:10.7554/eLife.70988
-Shi Z, Graber ZT, Baumgart T, Stone HA, Cohen AE. 2018. Cell membranes resist flow. Cell 175:1769-1779.e13. doi:10.1016/j.cell.2018.09.054
-Shi Z, Innes-Gold S, Cohen AE. 2022. Membrane tension propagation couples axon growth and collateral branching. BioRxiv. doi:10.1101/2022.01.09.475560
+1. Lewis AH, Cui AF, McDonald MF, Grandl J. 2017. Transduction of repetitive mechanical stimuli by piezo1 and piezo2 ion channels. Cell Rep 19:2572–2585. doi:10.1016/j.celrep.2017.05.079
+
+2. Lewis AH, Grandl J. 2021. Piezo1 ion channels inherently function as independent mechanotransducers. eLife 10. doi:10.7554/eLife.70988
+
+3. Shi Z, Graber ZT, Baumgart T, Stone HA, Cohen AE. 2018. Cell membranes resist flow. Cell 175:1769-1779.e13. doi:10.1016/j.cell.2018.09.054
+
+4. Shi Z, Innes-Gold S, Cohen AE. 2022. Membrane tension propagation couples axon growth and collateral branching. BioRxiv. doi:10.1101/2022.01.09.475560
 
 ## Prerequisites
 
